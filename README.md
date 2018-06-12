@@ -33,8 +33,8 @@ The visual word vocabulary ( 100 words) is created with the bow_cluster.py scrip
 4.
 
 
-Se configura el diccionario de bow con los descriptores y se entrena el clasificador con train y evalua en test con el archivo bow_config.py
+Se configura el diccionario de bow con los descriptores y se entrena el clasificador SVM con train y evalua en test con el archivo bow_config.py
 
 
-The dictionary is configured with the bow descriptors and a SVM classifier is trained with the train set and evalaluates with the test set with the bow_config.py script
+The dictionary is configured with the bow descriptors and a SVM classifier is trained with the train set and evaluates with the test set with the bow_config.py script
 
