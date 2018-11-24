@@ -1,6 +1,6 @@
 # FingerSpellingRecognition
 
-Pipeline
+Pipeline  to implement baseline: Recognition based on SIFT 
 
 
 1.
